@@ -1,0 +1,18 @@
+
+ body{ background-color: white; }
+
+.banner { width: 98%; background-repeat: no-repeat; background-size: cover; background-position: center center; overflow-x: hidden; position:absolute; margin:0; }
+
+.ml2 { font-weight: 900; font-size: 3.5em;  }
+
+.ml2 .letter { display: inline-block; line-height: 1em; }
+
+.content{ margin-top: 530px; background-color: #2280FF; }
+
+.bg-grey{ background-color: #F5F6F7; }
+
+.buttonPublier{ border-radius: 5px; padding-left: 45px; padding-right: 45px; font-size:23px; text-transform: uppercase; font-weight: 100;}
+
+.presse{ margin-left: 50px}
+
+.stage-service{ line-height: 3em;}

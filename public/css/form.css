@@ -1,0 +1,144 @@
+.logo{ max-height: 45px; }
+
+.inscrir {
+    padding: 8px 39px;
+    border:0;
+    background:#ffa800;
+    border-radius:8px;
+    color:#ffffff !important;
+    font-size: 19px;
+    text-transform:uppercase;
+    text-align:center;
+    font-weight: 500;
+    border-bottom:3px solid #f1f1f1;
+    text-decoration:none !important;
+    -webkit-transition:all .2s;
+    transition:all .2s;
+}
+.inscrir:hover{ background: #fff; color:#ffa800 !important; border-bottom: 0px;border: 3px solid #ffa800; }
+
+/* Message Text */
+.message{ color:#1f76eb; text-transform: uppercase; }
+
+/* My Card */
+.my-card{ border-radius: 15px; padding: 25px 40px; background: #ffffff; }
+
+/* Card se Connecter */
+.se-connecter{ border-radius: 15px; padding: 25px 40px; background: #ffffff; }
+
+/* Title Text */
+.title{ color:#1f76eb; text-transform: uppercase; }
+
+.all{ margin-top:200px; }
+
+.connecter{ border-bottom: 0px; border: 3px solid #fff; font-size: 22px; text-transform: capitalize; border-radius: 15px; }
+
+input{ border-radius: 15px; }
+
+/******* Start Menu principal *******/
+.stagiaire{
+    margin-right: 10px;
+    font-size: 18px;
+    border-radius: 15px;
+    text-transform: capitalize;
+    color: #fd7644;
+    /* background: #fff; */
+    border: 2px solid #fd7644 ;
+
+}
+.stagiaire:hover{ color: #fff; background: #fd7644; border: 3px solid #fff; display: inline-block; }
+
+.recruteur{ font-size: 18px; border-radius: 15px; text-transform: capitalize; color: #2280ff; border: 2px solid #2280ff; }
+
+.recruteur:hover{ color: #fff; background: #2280ff; border: 3px solid #fff; display: inline-block; }
+
+.navs a{ text-transform: uppercase; font-size: 15px; margin-top:10px; }
+
+.logo{ margin-top:10px; }
+/******* End Menu principal *******/
+
+/**** bandeau ****/
+.espace{ background: #2280ff; margin-top: -23px; padding: 10px 10px; margin-bottom: 25px; color:#fff; }
+
+.espace h3{ margin-top: 5px; }
+
+/**** bandeau ****/
+.espace-stagiaire{ background: #fd7644; margin-top: -23px; padding: 10px 10px; margin-bottom: 25px; color:#fff; }
+
+.espace-stagiaire h3{ margin-top: 5px; }
+
+.mon-profile{ background: #38c172; margin-top: -23px; padding: 10px 10px; margin-bottom: 25px; color:#fff; }
+
+.mesOffre{background: #72c5f5; margin-top: -23px;padding: 10px 10px; margin-bottom: 25px; color:#000; }
+
+.profileName{ padding-left: 190px; }
+
+.footer{ background:#303030; color: #fff; }
+
+ul li{ margin-top: 7px; text-transform: uppercase; }
+
+.btn-inscrir{
+    background: #303030;
+    color: #fff;
+    border: 3px solid #fff;
+    font-size: 18px;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 210px;
+    text-transform: uppercase;
+}
+
+.btn-inscrir:hover{ background: #fd7644; border: 3px solid #fff; }
+
+.btn-offre{
+    text-transform: uppercase;
+    background: #303030;
+    color: #fff;
+    border: 3px solid #fff;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px;
+
+    width: 210px;
+    white-space: nowrap;
+
+}
+
+.menu:hover{ border-bottom: 3px solid #FD6225}
+
+.btn-offre:hover{ background: #38c172; border: 3px solid #fff; white-space: nowrap; }
+
+.row-footer{ text-align: center; font-weight: bold; }
+
+.add{ margin-left: 10%;}
+
+span{ margin-top: 10px; }
+
+#parametres{
+    background-color: #eceff4;
+    width: 105%;
+    padding: 13px 15px;
+    border-radius: 15px;
+    font-size: 100%;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+.profile{ padding-left: 30%; }
+
+.password{ border-radius: 18px; padding-left: 14px; width: 179%; }
+
+.AllVille{ border-radius: 18px; padding-left: 14px; width: 179%;}
+
+.modifie{ width: 69%; border-radius: 14px; font-weight: bold; text-transform: uppercase;}
+
+.description{ line-height: 2em; }
+
+.vertical{ border-left: 5px solid #000; margin-left: 10px; }
+
+.teams{ margin-left:18px; font-family: 'Courier New', Courier, monospace }
+
+.buttonDark{ font-size: 14px; padding: 10px; width: 478px; text-transform: uppercase; }
