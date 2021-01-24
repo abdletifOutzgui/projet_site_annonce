@@ -41,7 +41,7 @@
                                 <label for="ville">Selectionner la ville</label>
 
                                 <select name="ville" id="ville" class="AllVille form-control @error("ville") is-invalid @enderror" required>
-                                    @foreach (config("static_arrays.villes")s as $ville)
+                                    @foreach (config("static_arrays.villes") as $ville)
                                         <option value="{{ $ville }}" {{ Auth::user()->profile->ville==$ville ? 'selected' : ''}}>{{ $ville }}</option>
                                     @endforeach
                                 </select>
